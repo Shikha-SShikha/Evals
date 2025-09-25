@@ -1,0 +1,562 @@
+[
+  {
+    "metadata": {
+      "timestamp": "Tue Sep 16 11:02:49 PM +0530 2025",
+      "sample_title": "Enhancement of Carrier Separation and Overall Water Splitting Performance by Nitrogen Doping in SrTiO3",
+      "evaluations_run": [
+        "decision_accuracy",
+        "evidence_grounding",
+        "consistency_check",
+        "negation_sensitivity"
+      ]
+    },
+    "input_data": {
+      "jid": "ab",
+      "aid": "12232",
+      "aligned": true,
+      "gold_aligned": true,
+      "rationale": "The manuscript focuses on enhancing the photocatalytic performance of SrTiO3 through nitrogen doping, which directly relates to the journal's core areas of sustainable and environmental chemistry, as well as materials and nanoscience. The study's emphasis on water splitting and carrier transport mechanisms aligns with the journal's mission to publish significant advancements in chemistry and interfacing areas of science.",
+      "scope_text": "The Journal of the American Chemical Society, founded in 1879, is the flagship journal of the American Chemical Society and the world\u2019s preeminent journal of chemistry and interfacing areas of science. The journal considers submissions in core fields such as, but not limited to: Analytical, physical, inorganic, and organic chemistry; Biological and medicinal chemistry, and biotechnology; Sustainable and environmental chemistry; Computational and theoretical chemistry; Materials and nanoscience; Energy and catalysis; Chemical engineering; Earth, atmospheric and space chemistry; Chemical education.",
+      "title": "Enhancement of Carrier Separation and Overall Water Splitting Performance by Nitrogen Doping in SrTiO3",
+      "abstract": "Enhancing the photocatalytic performance of SrTiO3 through bandgap modification via nitrogen doping is a widely used approach. However, our study reveals that N-doped SrTiO3 may exhibit additional mechanisms contributing to its improved performance. In this study, SrTiO3 was synthesized via a hydrothermal method. N doping significantly improved the photocatalytic efficiency of SrTiO3 in water splitting, with average hydrogen and oxygen production rates of 36.79 \u03bcmol h\u20131 and 18.66 \u03bcmol h\u20131, respectively, which is approximately 3.4 times higher than that of pure SrTiO3. First-principles calculations combined with diffuse reflectance spectroscopy demonstrated that under conventional doping conditions, N doping does not lead to a reduction in the bandgap of SrTiO3, indicating that the primary reason for the enhanced photocatalytic activity differs from that of N-doped TiO2 and is not due to an enhanced response to visible light. Further studies showed that upon introduction of nitrogen into the SrTiO3 lattice, the difference in electronegativity between N and O increased the charge density around the Ti 3d orbitals, causing an upward shift in the Fermi level, increased the depletion layer thickness, and promoted carrier transport and separation. This suggests that the primary reason for the performance improvement may be the enhanced efficiency of carrier transport and separation. This finding could contribute to a more comprehensive understanding of the effects of nonmetal ion doping on the properties of SrTiO3 and its potential applications."
+    },
+    "evaluation_results": {
+      "decision_accuracy": "Pass",
+      "evidence_grounding": {
+        "grounded": true,
+        "reason": "The rationale aligns with the journal's scope by addressing sustainable and environmental chemistry, materials and nanoscience, and energy and catalysis through the study of photocatalytic performance and water splitting."
+      },
+      "consistency_check": {
+        "Eval_Status": "Pass",
+        "which_one_executed": "LLM",
+        "reason": "The rationale clearly supports the decision by highlighting the manuscript's relevance to the journal's focus areas, such as sustainable chemistry and materials science, which justifies its inclusion."
+      },
+      "negation_sensitivity": {
+        "negation_pass": true,
+        "which_one_executed": "LLM",
+        "reason": "The negated abstract changes the key findings and methods, making it irrelevant to the journal's focus on chemistry and related fields. The model should correctly identify this shift in relevance and change its decision to 'Not Aligned'."
+      }
+    },
+    "source_file": "AB_12232_eval_results.json"
+  },
+  {
+    "metadata": {
+      "timestamp": "Tue Sep 16 11:01:40 PM +0530 2025",
+      "sample_title": "Enhanced Photodetection Performance of WSe",
+      "evaluations_run": [
+        "decision_accuracy",
+        "evidence_grounding",
+        "consistency_check",
+        "negation_sensitivity"
+      ]
+    },
+    "input_data": {
+      "jid": "am",
+      "aid": "4c07329",
+      "aligned": true,
+      "gold_aligned": true,
+      "rationale": "The manuscript focuses on the development and characterization of WSe2/V2O5 composite nanostructures for photodetection applications, which aligns with the journal's scope on 'Functional nanostructured materials' and 'Applications of polymer, composite, and coating materials.' The reported enhancements in photodetection performance and the potential applications in sensing and imaging directly target the journal's core mission of advancing applied materials research.",
+      "scope_text": "ACS Applied Materials & Interfaces serves the interdisciplinary community of chemists, engineers, physicists and biologists focusing on how newly-discovered materials and interfacial processes can be developed and used for specific applications. The editors are proud of the rapid growth of the journal since its inception in 2009, both in terms of the number of published articles and the impact of the research reported in those articles. ACS AMI is also truly international, with the majority of published articles now coming from outside the United States, capturing the rapid growth in applied research around the globe. Details about the journal article types and submission requirements may be found in the Author Guidelines. The following journal TOC sections provide a high-level guide to the journal scope: Biological and medical applications of materials and interfaces; Energy, environmental, and catalysis applications; Functional inorganic materials and devices; Organic electronic devices; Functional nanostructured materials (including low-d carbon); Applications of polymer, composite, and coating materials; Surfaces, interfaces, and applications. ACS Applied Materials & Interfaces, with its focus on applications, complements the portfolio of existing ACS publications focusing on fundamental materials science discovery, including Chemistry of Materials, Langmuir, Biomacromolecules, Macromolecules, The Journal of Physical Chemistry B and C, Journal of Physical Chemistry Letters, ACS Energy Letters, and ACS Photonics.",
+      "title": "Enhanced Photodetection Performance of WSe",
+      "abstract": "The two-dimensional (2D) chalcogenide WSe2/V2O5 composite nanostructures were synthesized using the hydrothermal method and extensively characterized with various spectroscopic techniques. X-ray diffraction (XRD) analysis confirmed the hexagonal crystal structure exhibiting space symmetry of P63/mmc. Scanning electron microscopy (SEM) images provided insights into the irregular and non-uniform morphology. Optical spectrum analysis indicated a band gap value of 2.01 eV for 15% WSe2/V2O5 nanostructures, as determined by the Wood and Tauc equation. Photoluminescence (PL) excitation spectra at emission wavelengths of 550 and 750 nm exhibited broad emission attributed to self-trapped excitons for V2O5 and WSe2 nanostructures. Under excitation at \u03bbexc = 365 nm, PL emission spectra displayed distinct peaks at 550 and 750 nm, demonstrating the ability to emit vivid red light. A device optimized for photoresponsivity (R) of approximately 7.80\u00d710-1 AW-1 and detectivity (D) of around 8.65\u00d71011 Jones, and quantum efficiency (QE) of approximately 3.42\u00d710-2 AW-1 were achieved at a wavelength of 390 nm while using a lamination sheet as a substrate. These findings underscore the capability of devices for efficient photoconversion at specified wavelengths, indicating potential applications in sensing, imaging, and optical communication. The photoresponsivity of the device remained stable at 3.38\u00d710-3 AW\u207b1 at 0\u00b0 and 3.09\u00d710-3 AW\u207b1 at 55\u00b0 bending angle. This indicates the resilience of device to mechanical strain, making it ideal for flexible and wearable sensor applications. The structural, morphological, and optical characterizations confirm the suitability of luminescent WSe2/V2O5 chalcogenide for practical optoelectronic applications, especially in display technologies."
+    },
+    "evaluation_results": {
+      "decision_accuracy": "Pass",
+      "evidence_grounding": {
+        "grounded": true,
+        "reason": "The manuscript's focus on WSe2/V2O5 composite nanostructures for photodetection aligns with the journal's scope on 'Functional nanostructured materials' and 'Applications of polymer, composite, and coating materials.'"
+      },
+      "consistency_check": {
+        "Eval_Status": "Pass",
+        "which_one_executed": "LLM",
+        "reason": "The rationale clearly supports the decision by stating that the manuscript aligns with the journal's scope on functional nanostructured materials and applications of composite materials, which are core areas of the journal."
+      },
+      "negation_sensitivity": {
+        "negation_pass": true,
+        "which_one_executed": "LLM",
+        "reason": "The negated abstract removes all key findings and methods that align with the journal's focus on applied materials and interfaces, making it irrelevant to the journal's scope. The model should correctly identify this change in relevance and flip its decision to 'Not Aligned'."
+      }
+    },
+    "source_file": "AM_4c07329_eval_results.json"
+  },
+  {
+    "metadata": {
+      "timestamp": "Tue Sep 16 11:02:40 PM +0530 2025",
+      "sample_title": "Multivalent hydrogen-bonded Cu-complexes as a template for topochemical reactivity of intercalated pyridyl derivatives",
+      "evaluations_run": [
+        "decision_accuracy",
+        "evidence_grounding",
+        "consistency_check",
+        "negation_sensitivity"
+      ]
+    },
+    "input_data": {
+      "jid": "an",
+      "aid": "4c06823",
+      "aligned": false,
+      "gold_aligned": true,
+      "rationale": "The manuscript focuses on the crystal engineering of hydrogen-bonded metal assemblies and their photochemical reactivity, which is more specialized in coordination chemistry and supramolecular chemistry. While it involves metal complexes, the primary emphasis on hydrogen bonding and specific structural motifs does not align closely with the journal's core mission of applications in nanomaterials, such as catalysis, energy storage, or nanomedicine, which are more relevant to the journal's scope.",
+      "scope_text": "ACS Applied Nano Materials is an interdisciplinary journal publishing original research covering all aspects of engineering, chemistry, physics and biology relevant to applications of nanomaterials. The journal is devoted to reports of new and original experimental and theoretical research of an applied nature that integrate knowledge in the areas of materials, engineering, physics, bioscience, and chemistry into important applications of nanomaterials. Sample topics within the scope of this journal: Materials: Inorganic, organic and hybrid nanomaterials; Quantum dots; Metallic and semiconducting nanoparticles; Nanowires and nanotubes; Self-assembled nanostructures; 1- and 2-D materials; Nano carbon, graphene and related materials. Applications: Catalysis and photocatalysis; Sensors; Plasmonics and photonics; Biology, nanomedicine and theranostics; Energy conversion and storage; Nanopatterning and nanotechnology; Novel approaches to synthesis of new and existing nanomaterials that have important applications",
+      "title": "Multivalent hydrogen-bonded Cu-complexes as a template for topochemical reactivity of intercalated pyridyl derivatives",
+      "abstract": "The crystal engineering of eight H-bonded metal assemblies based on a combination of Cu2+/(2,3-pyridyl)dicarboxylate moieties and N-heterocyclic derivatives is described. Single-crystal X-ray diffraction characterization revealed that all arrays were built from the self-assembly of their components via supramolecular heterodimeric synthons between carboxylic acid and pyridine groups. Compounds 1-3 form 2D arrays based on the self-assembly of metal-organic chains [Cu(2,3-Hpdc)]n or {[Cu(2,3-pdc)]2-}n with pyridyl compounds through hydrogen bonding interactions. Compounds 4-6 consist of 2D H-bonded double ribbons/layers, enabling the intercalation of stilbazole molecules head-to-tail fashion between metallic dimers [Cu2(2,3-pdc)4]4-. Compounds 7-8 were built from a mononuclear Cu2+ complex self-assembled via H-bonding interactions. As [Cu(2,3-Hpdc)2(4,4\u00b4-bpe)2] (7) displays a 3-fold parallel interpenetrated 2D H-bonded network, [Cu(2,3-pdc)(2,3-Hpdc)(OH2)]- (8) forms H-bonded bilayers between the Cu2+ complexes and water crystallization molecules. Adjacent bilayers are linked by a photoproduct generated in situ via a single-crystal-to-single-crystal transformation. These arrays 4, 7 and 8 are photoactive in the solid state upon UV irradiation, leading to the regioselective synthesis of rctt-cyclobutane derivatives in high-to-moderate yields. The structure-templating features of these arrays are described in terms of the concomitance of multiple supramolecular interactions. They encoded self-complementary donor-acceptor site information through a recurrent pattern of H-bonding preferences. These assemblies resulted from the concurrence of heterosynthons between the carboxylic and pyridyl groups and the presence of short contacts between the double bonds of the N-heterocycle derivatives, assisted by cation\u2212\u03c0 interactions and metal-building units with a modulable multivalency capacity."
+    },
+    "evaluation_results": {
+      "decision_accuracy": "Fail",
+      "evidence_grounding": {
+        "grounded": false,
+        "reason": "The rationale emphasizes coordination and supramolecular chemistry, which does not align with the journal's focus on applications of nanomaterials."
+      },
+      "consistency_check": {
+        "Eval_Status": "Fail",
+        "which_one_executed": "Code",
+        "reason": "Contradiction: aligned=False, inclusion=[], exclusion=[]"
+      },
+      "negation_sensitivity": {
+        "negation_pass": true,
+        "which_one_executed": "LLM",
+        "reason": "The original abstract was 'Not Aligned', and the negated version remains 'Not Aligned' as it further distances the content from the journal's scope by negating key findings and methods related to nanomaterials and their applications."
+      }
+    },
+    "source_file": "AN_4c0623_eval_results.json"
+  },
+  {
+    "metadata": {
+      "timestamp": "Tue Sep 16 11:00:02 PM +0530 2025",
+      "sample_title": "Fabrication and Properties of Anti-Freezing Gelatin Hydrogels based on a Deep Eutectic Solvent",
+      "evaluations_run": [
+        "decision_accuracy",
+        "evidence_grounding",
+        "consistency_check",
+        "negation_sensitivity"
+      ]
+    },
+    "input_data": {
+      "jid": "ap",
+      "aid": "3c00634",
+      "aligned": true,
+      "gold_aligned": true,
+      "rationale": "The manuscript focuses on the fabrication and properties of gelatin hydrogels with anti-freezing capabilities, which directly relates to the journal's interest in polymer applications, specifically in adaptive materials and functional coatings. The study integrates fundamental knowledge of polymer science and chemistry with practical applications in extreme conditions, aligning well with the journal's core mission of exploring relationships among structure, properties, and function in polymer materials.",
+      "scope_text": "ACS Applied Polymer Materials is an interdisciplinary journal publishing original research covering all aspects of engineering, chemistry, physics, and biology relevant to applications of polymers. The journal is devoted to reports of new and original experimental and theoretical research of an applied nature that integrates fundamental knowledge in the areas of materials, engineering, physics, bioscience, polymer science and chemistry into important polymer applications. The journal is specifically interested in work that addresses relationships among structure, processing, morphology, chemistry, properties, and function as well as work that provide insights into mechanisms critical to the performance of the polymer for applications. Sample research topics that span the journal's scope are but not limited to: Polymer applications in energy storage and conversion; Separations; Membranes; Adhesives; Functional coatings; Sensing; Adaptive and reconfigurable materials. The journal also considers novel approaches to the synthesis of new and existing polymers that are designed for specific applications.",
+      "title": "Fabrication and Properties of Anti-Freezing Gelatin Hydrogels based on a Deep Eutectic Solvent",
+      "abstract": "ABSTRACT: In this study, gelatin hydrogels with excellent anti-freezing properties were prepared by simply immersing the initial hydrogels into a deep eutectic solvent (DES) aqueous solution. The formation ice crystals in hydrogels is greatly hindered by an introduction of DES even at very low temperatures. The hydrogels still remain mechanically flexible even at -80 \u00b0C. In addition, DES could facilitate the protein chain bundling, resulting in the formation of triple helices, and thus improving the mechanical properties of gelatin hydrogels. Furthermore, the hydrogels could be stored for a long time with slight water loss, thus showing good water retention performance."
+    },
+    "evaluation_results": {
+      "decision_accuracy": "Pass",
+      "evidence_grounding": {
+        "grounded": true,
+        "reason": "The rationale aligns with the journal's scope by focusing on polymer applications, specifically adaptive materials, and integrates fundamental knowledge of polymer science and chemistry with practical applications."
+      },
+      "consistency_check": {
+        "Eval_Status": "Pass",
+        "which_one_executed": "LLM",
+        "reason": "The rationale clearly supports the decision that the manuscript fits the journal's scope by highlighting its relevance to polymer applications, adaptive materials, and functional coatings, which are core interests of the journal."
+      },
+      "negation_sensitivity": {
+        "negation_pass": true,
+        "which_one_executed": "LLM",
+        "reason": "The negated abstract now describes hydrogels that lack the key properties and performance improvements relevant to the journal's focus on polymer applications. The model should correctly identify this negated version as 'Not Aligned' due to the absence of significant findings in polymer applications."
+      }
+    },
+    "source_file": "AP_3c00634_eval_results.json"
+  },
+  {
+    "metadata": {
+      "timestamp": "Tue Sep 16 11:00:19 PM +0530 2025",
+      "sample_title": "Molecular characterization of ancient prosaposin-like proteins from the protist",
+      "evaluations_run": [
+        "decision_accuracy",
+        "evidence_grounding",
+        "consistency_check",
+        "negation_sensitivity"
+      ]
+    },
+    "input_data": {
+      "jid": "bi",
+      "aid": "4c00479",
+      "aligned": true,
+      "gold_aligned": true,
+      "rationale": "The manuscript focuses on the molecular characterization of ancient prosaposin-like proteins in the context of innate immunity and antimicrobial peptides, which directly relates to the journal's scope on the structure, function, and regulation of biopolymers, as well as the chemical and mechanistic basis of biological function. The research on amoebapore-like peptides (Apls) in Dictyostelium discoideum aligns well with the journal's emphasis on high-impact research in biochemical mechanisms.",
+      "scope_text": "Biochemistry provides an international forum for publishing exceptional, rigorous, high-impact research in all aspects of biological chemistry.\n\nTopics may include, but are not limited to:\n\nThe structure, function, regulation, and/or dynamics of natural, designed, or evolved biopolymers (e.g. proteins, DNA, RNA, oligosaccharides)\nThe chemical, physical, mechanistic, and/or structural basis of biological or cell function\nResearch in molecular enzymology, chemical biology, synthetic biology, cell biology, disease biology, nucleic acid biology, neuroscience, structural biology, computational biology, membrane biology, and biophysics\nThe Journal does NOT cover the following areas if they are presented as solitary topics and without making a strong connection to biochemical mechanisms or concepts:\n\nClinical research\nOrganismal biology",
+      "title": "Molecular characterization of ancient prosaposin-like proteins from the protist",
+      "abstract": "To combat the permanent exposure to potential pathogens every organism relies on an immune system. Important factors in innate immunity are antimicrobial peptides (AMPs) that are structurally highly diverse. Some AMPs are known to belong to the saposin-like proteins (SAPLIPs), a group of polypeptides with a broad functional spectrum. The model organism Dictyostelium discoideum possesses a remarkably large arsenal of potential SAPLIPs, which are termed amoebapore-like peptides (Apls), but the knowledge about these proteins is very limited."
+    },
+    "evaluation_results": {
+      "decision_accuracy": "Pass",
+      "evidence_grounding": {
+        "grounded": true,
+        "reason": "The rationale aligns with the journal's scope on the structure, function, and regulation of biopolymers and the chemical and mechanistic basis of biological function."
+      },
+      "consistency_check": {
+        "Eval_Status": "Pass",
+        "which_one_executed": "LLM",
+        "reason": "The rationale clearly supports the decision by explaining how the manuscript's focus on molecular characterization and biochemical mechanisms aligns with the journal's scope on biopolymers and biological function."
+      },
+      "negation_sensitivity": {
+        "negation_pass": true,
+        "which_one_executed": "LLM",
+        "reason": "The negated abstract removes the focus on biochemical mechanisms and concepts, making it irrelevant to the journal's scope. The model should correctly identify this change in relevance and switch its decision to 'Not Aligned'."
+      }
+    },
+    "source_file": "BI_4c00479_eval_results.json"
+  },
+  {
+    "metadata": {
+      "timestamp": "Tue Sep 16 11:01:14 PM +0530 2025",
+      "sample_title": "Applicability and limitation of aromatic maturity parameters in high-maturity oil from ultra-deep reservoirs",
+      "evaluations_run": [
+        "decision_accuracy",
+        "evidence_grounding",
+        "consistency_check",
+        "negation_sensitivity"
+      ]
+    },
+    "input_data": {
+      "jid": "ef",
+      "aid": "4c02159",
+      "gold_aligned": true,
+      "aligned": true,
+      "rationale": "The manuscript focuses on the evaluation of oil maturity parameters in high-maturity oil from ultra-deep reservoirs, which is more specialized in geological and geochemical analysis rather than the broader energy and fuel applications emphasized in the journal's scope. The study does not directly address energy conversion, storage, or sustainable development of energy resources, which are core to the journal's mission.",
+      "scope_text": "Energy & Fuels, founded in 1987, aspires to publish the most exciting fundamental and applied research in the fields of energy and fuels. The journal focuses on the science and application domains of energy and fuels, particularly those in the disciplines of chemical engineering and applied chemistry. It intends to serve the vital and growing community of scientists, engineers, and policy experts involved in energy-related fields by publishing fully vetted, reliable, and high-quality research results.\nThe scope of Energy & Fuels covers:\n* Fossil energy resources in the context of sustainable development\n* Bioenergy, biofuels and biorefinery\n* Batteries and energy storage\n* Fuel cells\n* Solar energy, solar fuels, and conversion of light\n* Water splitting and electrolysis\n* Non-carbon-based fuels (e.g., hydrogen, ammonia, etc.)\n* Carbon capture, utilization and storage\nThe submissions on catalysis (including bio-, photo- and electro-catalysis) must focus on new insights for energy conversion and not solely on catalyst characterization. Manuscripts on analytical and instrumental techniques used in investigations of the foregoing areas are also welcome. The analysis of the physical and chemical properties of raw fuels and refined products by novel methods is within the scope. Submitted manuscripts are expected to contain new fundamental knowledge and/or present advances in technologies. Manuscripts on process development, integration and modelling are welcome if they include sound physical-chemical fundamentals. Submissions dealing with nuclear, wind and hydraulic power, power grids, or solely with process economics will not be considered.",
+      "title": "Applicability and limitation of aromatic maturity parameters in high-maturity oil from ultra-deep reservoirs",
+      "abstract": "A substantial reserve of highly mature light oil has been discovered in the Ordovician reservoir of the Shunbei Oilfield, Tarim Basin, NW China. This study aims to provide an objective assessment of oil maturity in the Shunbei Oilfield and establish a reliable maturity evaluation index for oil in the high thermal evolution stage. Eighteen crude oil samples from the No. 4 fault zone (F4) of Shunbei Oilfield were systematically analyzed. Aromatic hydrocarbon, light hydrocarbon components, and diamondoid compositions were analyzed by gas chromatography-mass spectrometry. The depositional environment and the organic matter input of their related source rocks were determined by corresponding geochemical indicators. The results indicate that the F4 oils have been derived from the same source kitchen and belong to the same oil population. The oil maturity in the study area was evaluated by the maturity parameters relative to aromatics, light hydrocarbons, and diamondoid. The analysis indicates that the results of aromatic parameters for identifying oil maturity contradict those of light hydrocarbon and diamondoid parameters. The equivalent vitrinite reflectance of the oil samples ranges from 1.43% to 1.54%. It is concluded that light hydrocarbon and diamondoid parameters can reliably be used to evaluate the maturity of oil in the high thermal evolution stage. However, most of the aromatic maturity parameters exhibit significant limitations during the high thermal evolution stage. The maturity parameters of phenanthrene and dibenzothiophene were \"reversed\" in the high thermal evolution stage due to demethylation and thermal alteration, respectively. Additionally, most naphthalene maturity parameters are affected by thermally induced condensation, rendering them unsuitable for maturity evaluation of the high thermal evolution stage. Notably, pentamethylnaphthalene ratio (PMNr, PMNr=1, 2, 4, 6, 7-/ (1, 2, 4, 6, 7 + 1, 2, 3, 5, 6)-pentamethylnaphthalene) exhibits a strong positive correlation with gas-oil ratio (GOR), n-heptane /methylcyclohexane (nC7/MCH) ratio, and (3+4)-methyldiamantane (MD) concentrations, indicating their reliability as maturity indicators for high to over mature oils and source rocks."
+    },
+    "evaluation_results": {
+      "decision_accuracy": "Pass",
+      "evidence_grounding": {
+        "grounded": true,
+        "reason": "The manuscript involves the analysis of physical and chemical properties of raw fuels, which aligns with the journal's scope of analyzing raw fuels and refined products by novel methods."
+      },
+      "consistency_check": {
+        "Eval_Status": "Fail",
+        "which_one_executed": "LLM",
+        "reason": "The rationale suggests the manuscript does not fit the journal's scope, focusing on geological analysis rather than energy applications, which contradicts the decision of 'aligned = True'."
+      },
+      "negation_sensitivity": {
+        "negation_pass": true,
+        "which_one_executed": "LLM",
+        "reason": "The negated abstract now lacks any meaningful findings or methods relevant to the journal's scope, as it negates the discovery, analysis, and conclusions related to oil maturity and evaluation. The model should correctly identify this negated version as 'Not Aligned' due to the absence of relevant content."
+      }
+    },
+    "source_file": "EF_4c02159_eval_results.json"
+  },
+  {
+    "metadata": {
+      "timestamp": "Tue Sep 16 11:01:30 PM +0530 2025",
+      "sample_title": "LEGACY OF A MARINE DISASTER: FOUR-YEAR-OLD OIL FRAGMENTS POSE ECOTOXICOLOGICAL THREAT TO AMPHIBIAN LIFE",
+      "evaluations_run": [
+        "decision_accuracy",
+        "evidence_grounding",
+        "consistency_check",
+        "negation_sensitivity"
+      ]
+    },
+    "input_data": {
+      "jid": "ew",
+      "aid": "4c00876",
+      "gold_aligned": true,
+      "aligned": true,
+      "rationale": "The manuscript directly addresses the ecotoxicological effects of weathered oil fragments on amphibian life, which aligns with the journal's focus on water quality and the behavior of contaminants in aquatic environments. It also emphasizes the long-term impacts of pollution, relevant to sustainable water management and the health of ecosystems, fitting well within the journal's core mission and priority applications.",
+      "scope_text": "ACS ES&T Water is a high-quality specialist journal dedicated to water research and policy. This international, multidisciplinary journal publishes novel, high-impact, peer-reviewed research on all aspects of water quality, chemistry, treatment, protection, and sustainable use/reuse and supply. The Journal considers both marine and freshwater environments as well as water utilized for industrial and municipal applications. ACS ES&T Water's multi-disciplinary research focus also welcomes other water-related research fields. Manuscripts describing public policy and the underlying science utilized for decision making are also encouraged. Specific topics of interest may include (but are not limited to) the following areas:\n\nWater quality and the transformation, transport and behavior of contaminants in aquatic environments (groundwater, surface water, snow/ice, precipitation, and marine water) and engineered systems\nWater/wastewater treatment and innovative technologies, including biological, physical, chemical, and natural processes\nSustainable water supply, reuse, and integrated water resource management\nIndustrial water systems and process water treatment\nMarine, estuarine and freshwater biogeochemistry and ecology\nDirect and indirect impacts of climate change on water sustainability\nRemediation and restoration of natural aquatic systems\nInnovative technologies for water quality monitoring and spatial vulnerability assessments\nModelling groundwater, surface water and marine flow and contaminant fate and transport\nSpatial data on global and local water supply and water quality monitoring data trends.\nWater quality impacts on human and environmental health, including pathogen, chemical, and physical stressors\nRisk assessment and regulatory frameworks\nLife-cycle assessments and economic impact calculations, and social science implications",
+      "title": "LEGACY OF A MARINE DISASTER: FOUR-YEAR-OLD OIL FRAGMENTS POSE ECOTOXICOLOGICAL THREAT TO AMPHIBIAN LIFE",
+      "abstract": "This study evaluated the ecotoxicological effects of weathered oil fragments (WOFs) collected four years after the 2019\u20132020 Brazilian oil spill on Scinax fuscovarius tadpoles, a species commonly found in mangrove-adjacent ecosystems. Tadpoles were exposed to WOFs at 1 g/L (WOF-I) and 4.5 g/L (WOF-II) for 21 days. Growth inhibition, oxidative stress, and genotoxicity were observed in both exposed groups. Compared to controls, WOF exposure resulted in up to 25.1% higher total petroleum hydrocarbon (TPH) accumulation in intestines, 400% more erythrocyte nuclear abnormalities, and significantly elevated DNA damage (tail DNA% and olive tail moment). Biochemical responses included increased reactive oxygen species (ROS), malondialdehyde (MDA), and corticosterone levels, along with altered antioxidant enzyme activities and upregulation of digestive enzymes. Principal Component Analysis (PCA) explained 75.1% and 24.9% of the variance in PC1 and PC2, respectively, highlighting oxidative stress, corticosterone, and genotoxicity as key factors in discrimination. Detrended Correspondence Analysis (DCA) confirmed group separation, with greater response variability in WOF-II. These findings demonstrate that WOFs remain toxic years after their release, posing a threat to amphibians in transitional ecosystems. The study highlights the importance of long-term monitoring and remediation efforts that extend beyond marine environments."
+    },
+    "evaluation_results": {
+      "decision_accuracy": "Pass",
+      "evidence_grounding": {
+        "grounded": true,
+        "reason": "The manuscript aligns with the journal's focus on water quality and the behavior of contaminants in aquatic environments, as well as the long-term impacts of pollution on ecosystems."
+      },
+      "consistency_check": {
+        "Eval_Status": "Pass",
+        "which_one_executed": "LLM",
+        "reason": "The rationale clearly supports the decision by explaining how the manuscript's focus on ecotoxicological effects and long-term pollution impacts aligns with the journal's scope on water quality and contaminant behavior."
+      },
+      "negation_sensitivity": {
+        "negation_pass": true,
+        "which_one_executed": "LLM",
+        "reason": "The negated abstract removes the study's findings and relevance to water quality and environmental impact, which are key areas of interest for the journal. The model should correctly identify the negated abstract as 'Not Aligned' due to the lack of relevant content."
+      }
+    },
+    "source_file": "EW_4c00876_eval_results.json"
+  },
+  {
+    "metadata": {
+      "timestamp": "Tue Sep 16 11:01:22 PM +0530 2025",
+      "sample_title": "CFD-PBM coupled with dynamic interfacial tension model for simulating liquid-liquid two-phase flow and interphase mass transfer in a pulsed column",
+      "evaluations_run": [
+        "decision_accuracy",
+        "evidence_grounding",
+        "consistency_check",
+        "negation_sensitivity"
+      ]
+    },
+    "input_data": {
+      "jid": "ie",
+      "aid": "4c04317",
+      "gold_aligned": true,
+      "aligned": true,
+      "rationale": "The manuscript addresses significant advances in the field of chemical engineering by incorporating a dynamic interfacial tension model into CFD-PBM simulations for two-phase flow, which directly relates to core areas such as transport phenomena and chemical reaction kinetics. The study's focus on mass transfer in a pulsed column aligns well with the journal's emphasis on applied chemistry and engineering principles, making it a suitable fit for the journal's scope.",
+      "scope_text": "Industrial & Engineering Chemistry Research, with variations in title and format, has been published since 1909 by the American Chemical Society. Industrial & Engineering Chemistry Research is a weekly publication that reports industrial and academic research in the broad fields of applied chemistry and chemical and biomolecular/biochemical engineering. Papers may be based on work that is experimental, computational, or theoretical, mathematical or descriptive, and chemical, physical, or biological. Research that combines multiple approaches (e.g., experimentation with validation by modeling or vice versa) are particularly welcome. We seek reports of significant fundamental research advances that draw on core areas such as, but not limited to\n* Thermodynamics\n* Transport phenomena\n* Chemical reaction kinetics and engineering\n* Catalysis\n* Separations, and process systems engineering.\nWe also welcome reports on significant advances in product research and development that use chemical and engineering principles to improve or create\n* New catalysts\n* Plastics\n* Sorbents\n* Membranes\n* Functional materials\nPapers dealing with new areas of science and technology that fit the journal's broad scope and objectives are encouraged.",
+      "title": "CFD-PBM coupled with dynamic interfacial tension model for simulating liquid-liquid two-phase flow and interphase mass transfer in a pulsed column",
+      "abstract": "CFD simulation has proven to be a powerful tool in studying two-phase flow. The dynamic change of interfacial tension under mass transfer conditions has significant influence on the accuracy of the simulation, yet has never been considered in previous study because of the lacking of experimental data on dynamic interfacial tension (DIFT). In this study, the DIFT model from previous work (Wang et al., AIChE J. 2024; e18411) is incorporated into the CFD- PBM simulation to simulate two-phase flow in a pulsed column under conditions of mass transfer. Simulation results, including the cumulative droplet size distribution (Q3) and solute concentration in two phases, are in good agreement with experimental results, demonstrating the necessity of the DIFT model. As height decreases, it is found that the reduction in mass transfer flux and solute concentration, leading to an increase in DIFT, that is the reason for the decrease in droplet breakup frequency."
+    },
+    "evaluation_results": {
+      "decision_accuracy": "Pass",
+      "evidence_grounding": {
+        "grounded": true,
+        "reason": "The rationale aligns with the journal's scope by addressing transport phenomena and mass transfer, which are core areas of interest in applied chemistry and chemical engineering."
+      },
+      "consistency_check": {
+        "Eval_Status": "Pass",
+        "which_one_executed": "LLM",
+        "reason": "The rationale clearly supports the decision by highlighting how the manuscript's focus on significant advances in chemical engineering and its relevance to core areas like transport phenomena and chemical reaction kinetics align with the journal's scope."
+      },
+      "negation_sensitivity": {
+        "negation_pass": true,
+        "which_one_executed": "LLM",
+        "reason": "The negated abstract changes the key findings and methods, making it irrelevant to the journal's focus on significant research advances. The model should correctly identify this shift in relevance and change its decision to 'Not Aligned'."
+      }
+    },
+    "source_file": "IE_4c04317_eval_results.json"
+  },
+  {
+    "metadata": {
+      "timestamp": "Tue Sep 16 11:02:27 PM +0530 2025",
+      "sample_title": "Ferrocenyl PNNP Ligands-Controlled Chromium Complex-Catalyzed Photocatalytic Reduction of CO",
+      "evaluations_run": [
+        "decision_accuracy",
+        "evidence_grounding",
+        "consistency_check",
+        "negation_sensitivity"
+      ]
+    },
+    "input_data": {
+      "jid": "ja",
+      "aid": "4c03683",
+      "aligned": true,
+      "gold_aligned": true,
+      "rationale": "The manuscript focuses on the development of chromium complexes for photocatalytic CO2 reduction, which aligns with the journal's core mission in areas such as sustainable and environmental chemistry, as well as materials and nanoscience. The research presents novel molecular catalysts and explores their mechanisms, fitting well within the journal's emphasis on innovative chemical research and applications.",
+      "scope_text": "The Journal of the American Chemical Society, founded in 1879, is the flagship journal of the American Chemical Society and the world\u2019s preeminent journal of chemistry and interfacing areas of science. The journal considers submissions in core fields such as, but not limited to:\n* Analytical, physical, inorganic, and organic chemistry\n* Biological and medicinal chemistry, and biotechnology\n* Sustainable and environmental chemistry\n* Computational and theoretical chemistry\n* Materials and nanoscience\n* Energy and catalysis\n* Chemical engineering\n* Earth, atmospheric and space chemistry\n* Chemical education",
+      "title": "Ferrocenyl PNNP Ligands-Controlled Chromium Complex-Catalyzed Photocatalytic Reduction of CO",
+      "abstract": "3d-transition metal complexes have been gaining much attention as promising candidates for photocatalytic carbon dioxide (CO2) reduction systems. In contrast to group 7\u201312 elements, Cr in group 6 has not yet been investigated as the catalyst of CO2 photoreduction because of its intrinsic disadvantages. Cr has a weak reducing ability due to an insufficient number of d electrons and high Lewis acidity which may deactivate the catalyst by strong coordination with a product formate. To overcome these drawbacks, we rationally designed molecular Cr complexes bearing ferrocenyl PNNP tetradentate ligands (FcCrCy, FcCriPr, FcCrtBu, and FcCrPh). These Cr complexes selectively converted CO2 into formic acid (HCO2H) under photocatalytic conditions and, to our knowledge, represent the first molecular Cr catalysts for CO2 photoreduction. The best catalyst FcCrPh achieved a turnover number of 1180 for HCO2H formation with 86% selectivity after 48 h light irradiation, with a combined use of an organic photosensitizer. Electrochemical and continuous UV\u2013vis absorption analyses clarified the sequential reaction pathways involving multi-electron reduction and protonation of a Cr complex. Moreover, through detailed computational studies, photo-induced electron transfer mediated by ferrocenyl groups and intramolecular proton transfer attributed to hemilabile phosphine ligands would be key to the efficient catalysis that overwhelms the inherent disadvantages of Cr."
+    },
+    "evaluation_results": {
+      "decision_accuracy": "Pass",
+      "evidence_grounding": {
+        "grounded": true,
+        "reason": "The rationale aligns with the journal's scope in sustainable and environmental chemistry, and materials and nanoscience, which are relevant to the manuscript's focus on photocatalytic CO2 reduction using chromium complexes."
+      },
+      "consistency_check": {
+        "Eval_Status": "Pass",
+        "which_one_executed": "LLM",
+        "reason": "The rationale clearly supports the decision by stating that the manuscript aligns with the journal's focus on sustainable and environmental chemistry, as well as innovative chemical research, which justifies its inclusion."
+      },
+      "negation_sensitivity": {
+        "negation_pass": true,
+        "which_one_executed": "LLM",
+        "reason": "The negated abstract removes the key findings and relevance to the journal's focus areas, such as photocatalytic CO2 reduction and the design of Cr complexes, making it not aligned with the journal's scope. The model should correctly identify this change in relevance."
+      }
+    },
+    "source_file": "JA_4c03683_eval_results.json"
+  },
+  {
+    "metadata": {
+      "timestamp": "Tue Sep 16 11:02:02 PM +0530 2025",
+      "sample_title": "La(OTf)",
+      "evaluations_run": [
+        "decision_accuracy",
+        "evidence_grounding",
+        "consistency_check",
+        "negation_sensitivity"
+      ]
+    },
+    "input_data": {
+      "jid": "jo",
+      "aid": "4c02369",
+      "aligned": true,
+      "gold_aligned": true,
+      "rationale": "The manuscript presents a novel method for the synthesis of functional fluorenone derivatives through a La(OTf)3-catalyzed reaction, which aligns with the journal's focus on synthetic methods and total synthesis protocols that demonstrate conceptual novelty. The reported reaction showcases a one-step process involving multiple transformations, fitting well within the journal's emphasis on quality and novelty in organic chemistry research.",
+      "scope_text": "The Journal of Organic Chemistry welcomes original contributions of fundamental research in all branches of the theory and practice of organic chemistry. In selecting manuscripts for publication, the editors place emphasis on the quality and novelty of the work, as well as the breadth of interest to the organic chemistry community. Manuscripts with a focus on the following topics along with guidance are included below. The scope of organic chemistry is broader than these several areas of research and the Editorial Board is consistently welcoming and evaluating manuscripts addressing topics in addition to these. Guidelines for specific focus areas are as follows: Single or multistep synthetic methods and total synthesis protocols that demonstrate strategies, transformations, or shortened routes to target structures with conceptual novelty; Mechanistic studies (experimental or theoretical) that show methodological advances or provide novel insight into the course of chemical reactions; Natural products isolation and identification studies that report unusual skeletal features, improvements in methods for structural determination, or insights into biosynthetic pathways; Manuscripts with elements of biological study, analytical chemistry, functional molecules and systems, or materials science should demonstrate novelty in those aspects associated with the organic chemistry portion of the work being reported.",
+      "title": "La(OTf)",
+      "abstract": "An attractive method for the preparation of functional fluorenone derivatives has been developed via La(OTf)3-catalyzed benzannulation of 2-arylidene-1H-indene-1,3(2H)-diones with enamino esters. The reaction involves Michael addition, intramolecular cyclization, dehydration, and aromatization in a one-step process, and affords a wide range of functional fluorenone derivatives in moderate to good yields. Moreover, this protocol provides several advantages, including broad substrate scope, readily available materials, high atom economy and applicability for large-scale synthesis."
+    },
+    "evaluation_results": {
+      "decision_accuracy": "Pass",
+      "evidence_grounding": {
+        "grounded": true,
+        "reason": "The rationale aligns with the journal's focus on synthetic methods and total synthesis protocols demonstrating conceptual novelty, which is within the scope of organic chemistry."
+      },
+      "consistency_check": {
+        "Eval_Status": "Pass",
+        "which_one_executed": "LLM",
+        "reason": "The rationale supports the decision by highlighting the manuscript's alignment with the journal's focus on novel synthetic methods and conceptual novelty, which fits the journal's scope."
+      },
+      "negation_sensitivity": {
+        "negation_pass": true,
+        "which_one_executed": "LLM",
+        "reason": "The negated abstract removes the key elements of novelty and methodological advancement, which are crucial for alignment with the journal's scope. The model should correctly identify the negated abstract as 'Not Aligned' due to the lack of relevance to the journal's focus areas."
+      }
+    },
+    "source_file": "JO_4c02369_eval_results.json"
+  },
+  {
+    "metadata": {
+      "timestamp": "Tue Sep 16 11:00:36 PM +0530 2025",
+      "sample_title": "Bimetallic MOFs-derived metal oxides Co",
+      "evaluations_run": [
+        "decision_accuracy",
+        "evidence_grounding",
+        "consistency_check",
+        "negation_sensitivity"
+      ]
+    },
+    "input_data": {
+      "jid": "la",
+      "aid": "4c02052",
+      "aligned": true,
+      "gold_aligned": true,
+      "rationale": "The manuscript focuses on the construction of p-n heterojunctions using metal oxides derived from MOFs, which directly relates to the journal's emphasis on the rational design of interfaces and materials where the interface dominates function. The study's exploration of gas sensing performance and the discussion of the gas sensing mechanism align with the journal's interest in sensors and interfacial properties, making it a suitable fit for Langmuir.",
+      "scope_text": "Langmuir focuses on the science and engineering of systems and materials in which the interface dominates structure and function. Manuscript submissions on the rational design of interfaces, including new applied and fundamental concepts in emerging areas, are welcome. The following topics are examples within the scope ofLangmuir: Polymer interfaces and films; Adsorption, wetting, adhesion and dynamics; Membranes and biofouling; Surfactants, emulsions, microemulsions, vesicles, suspensions, foams and gels; Fundamental theory and computations of interfacial properties; Droplets and their dynamics; Active and adaptive colloids and nanoparticles, self-assembly; Drug delivery, nanomedicine, carriers, targeting, uptake and controlled release; Advances in surface/interface characterization techniques; MOFs, COFs, zeolites and other porous materials; Sensors and biosensors; Rheology, mechanics and non-equilibrium thermodynamics; Van der Waals materials (1D, 2D, 3D and layered); Interfaces for sustainability and energy; Electrochemistry, heterogeneous catalysis, photocatalysis; Single molecule, single atom catalysts and particle dynamics under confinement. Reviewers of Langmuir manuscripts will be asked the following questions; Does the manuscript report original and significant findings in interface science and engineering?; Are the claims adequately supported with appropriate data, control experiments, and statistics?; What are the strengths and weaknesses of the work?",
+      "title": "Bimetallic MOFs-derived metal oxides Co",
+      "abstract": "The construction of p-n heterojunction is expected to be one of the effective means to improve the gas sensitivity. In this research, p-n heterojunctions are successfully constructed by metal oxides derived from metal organic frameworks (MOFs). MOFs-derived bimetallic Co3O4/SnO2 microspheres are prepared by precipitation. The gas sensing performance shows that the Co3O4/SnO2 sensor exhibits extremely high response (Ra/Rg=641) to 20 ppm n-butanol at 200 \u00b0C, which is 19 times that of the pristine SnO2. It can detect n-butanol gas at low concentration, and has good selectivity to alcohol gas, and reduces the interference of benzene gas. The improved of gas sensitivity can be attributed to the formation of stable heterojunction between Co3O4 and SnO2, resulting in a greater resistance change of Co3O4/SnO2. Co3O4/SnO2 inherits the characteristics of high specific surface area (SSA) of MOFs, which provides abundant sites for the reaction of target gas and oxygen molecules. Finally, the gas sensing mechanism of the Co3O4/SnO2 based sensor is discussed in detail."
+    },
+    "evaluation_results": {
+      "decision_accuracy": "Pass",
+      "evidence_grounding": {
+        "grounded": true,
+        "reason": "The manuscript aligns with the journal's scope by focusing on MOFs-derived materials and their interfacial properties, specifically in the context of sensors, which is a topic within Langmuir's scope."
+      },
+      "consistency_check": {
+        "Eval_Status": "Pass",
+        "which_one_executed": "LLM",
+        "reason": "The rationale clearly supports the decision by highlighting the manuscript's focus on topics that align with the journal's scope, such as the rational design of interfaces and materials, as well as sensors and interfacial properties."
+      },
+      "negation_sensitivity": {
+        "negation_pass": true,
+        "which_one_executed": "LLM",
+        "reason": "The negated abstract removes the key findings and relevance to interface science and engineering, which are crucial for alignment with the journal's scope. The model should correctly identify this change in relevance and flip the decision to 'Not Aligned'."
+      }
+    },
+    "source_file": "LA_4c02052_eval_results.json"
+  },
+  {
+    "metadata": {
+      "timestamp": "Tue Sep 16 11:01:54 PM +0530 2025",
+      "sample_title": "Multi post-polymerization functionalization of PLA enabled by sulfide tetrazines as a single end-group moiety",
+      "evaluations_run": [
+        "decision_accuracy",
+        "evidence_grounding",
+        "consistency_check",
+        "negation_sensitivity"
+      ]
+    },
+    "input_data": {
+      "jid": "lg",
+      "aid": "5c00045",
+      "gold_aligned": true,
+      "aligned": true,
+      "rationale": "The manuscript focuses on the synthesis and functionalization of polymers, specifically PLA, which aligns with the journal's emphasis on polymer synthesis and modification. It also addresses biomedical applications, a key area of interest for ACS Polymers Au, by demonstrating a novel approach for drug delivery systems using non-toxic methods. The innovative use of tetrazines for post-polymerization functionalization directly targets the journal's core mission of advancing polymer science.",
+      "scope_text": "ACS Polymers Au is an open access journal publishing original, cutting-edge and impactful research on all aspects of polymer science and related cross-disciplinary areas. The journal publishes all areas of macromolecular and soft matter science and their applications, including:\n\nPolymer synthesis and modification\nPolymer characterization\nNanotechnology\nSelf-assembly\nSupramolecular chemistry\nEnergy generation and storage\nElectronics\nPhotonics\nSensing\nAdaptive materials\nMembranes\nRenewable and sustainable materials\nBiomaterials\nBiomedical applications of polymers\nManuscripts should highlight innovation and advances in the fundamental understanding of polymers through studies of:\n\nSynthesis\nPhase behavior, thermodynamics, dynamic phenomena\nStructure and properties\nState-of-the-art characterization, modeling, simulation, and theoretical methods",
+      "title": "Multi post-polymerization functionalization of PLA enabled by sulfide tetrazines as a single end-group moiety",
+      "abstract": "The synthesis of well-defined and multi-functional polymeric systems for drug delivery is a topic of intense research. However, a major limitation in the functionalization of these systems for nanomedical applications is the reliance on toxic catalysts or non-biocompatible strategies for polymer coupling and ligation, as well as the need for extensive purification steps when multiple functionalization reactions are performed. In this work, we introduce tetrazines containing both a methyl sulfide and hydroxyl functionality as initiator for ROP of l-lactide. We demonstrate that the obtained polymer can be successfully conjugated to mPEG-SH by chemoselective tetrazine-thiol exchange in a traceless manner. The byproduct, methanethiol, is easily eliminated during the course of the reaction, thus avoiding the use of toxic catalyst. Additionally, the same end-group allows for further functionalization via inverse electron demand Diels-Alder chemistry using trans-cyclooctene. These findings highlight the potential of TeTEx to access complex polymeric systems for biomedical applications by enabling two distinct post-polymerization functionalization at a single end-group, notably in a truly traceless manner."
+    },
+    "evaluation_results": {
+      "decision_accuracy": "Pass",
+      "evidence_grounding": {
+        "grounded": true,
+        "reason": "The rationale aligns with the journal's scope by focusing on polymer synthesis and modification, and biomedical applications, which are key areas of interest for ACS Polymers Au."
+      },
+      "consistency_check": {
+        "Eval_Status": "Pass",
+        "which_one_executed": "LLM",
+        "reason": "The rationale clearly supports the decision by highlighting the manuscript's focus on polymer synthesis and modification, which aligns with the journal's scope. It also emphasizes the relevance to biomedical applications and innovative methods, which are key interests of the journal."
+      },
+      "negation_sensitivity": {
+        "negation_pass": true,
+        "which_one_executed": "LLM",
+        "reason": "The negated abstract meaningfully changes the relevance to the journal's scope by negating key findings and methods that align with polymer science and biomedical applications. A good model should recognize this shift and change the decision to 'Not Aligned'."
+      }
+    },
+    "source_file": "LG_5c00045_eval_results.json"
+  },
+  {
+    "metadata": {
+      "timestamp": "Tue Sep 16 11:00:12 PM +0530 2025",
+      "sample_title": "A Framework for a High Throughput Screening Method to Assess Polymer/Plasticizer Miscibility: The Case of Hydrocarbons in Polyolefins",
+      "evaluations_run": [
+        "decision_accuracy",
+        "evidence_grounding",
+        "consistency_check",
+        "negation_sensitivity"
+      ]
+    },
+    "input_data": {
+      "jid": "ma",
+      "aid": "3c01764",
+      "aligned": true,
+      "gold_aligned": true,
+      "rationale": "The manuscript focuses on the miscibility of plasticizers in polyolefins, which directly relates to polymer synthesis and properties, as outlined in the journal scope. It employs coarse-grained molecular simulations and machine learning to enhance the understanding of polymer-plasticizer interactions, aligning with the journal's emphasis on innovative experimental methods and theoretical approaches in polymer science.",
+      "scope_text": "Macromolecules publishes original, fundamental, and impactful research on all aspects of polymer science. Typical papers published inMacromoleculesshowcase important and innovative concepts, experimental methods/observations, and theoretical/computational approaches that demonstrate a fundamental advance in the understanding of polymers. Topics of interest include, but are not exclusively limited to: Polymer synthesis (e.g. controlled polymerizations, polymerization catalysis, post polymerization modification, new monomer structures and polymer architectures, and polymerization mechanisms/kinetics analysis); Polymer phase behavior, thermodynamics, dynamics, and ordering/disordering phenomena (e.g. self-assembly, gelation, crystallization, solution/melt/solid-state characteristics); Structure and properties (e.g. mechanical and rheological properties, surface/interfacial characteristics, electronic and transport properties); New state of the art characterizations (e.g. spectroscopy, scattering, microscopy, rheology); Simulation and theoretical methods (e.g. Monte Carlo, molecular dynamics, multi-scale/coarse-grained modeling); Renewable/sustainable polymers; Polymer networks; Responsive polymers; Electro-, magneto- and opto-active macromolecules; Inorganic polymers; Charge-transporting polymers (e.g. ion-containing, semiconducting, and conducting); Nanostructured polymers; Polymer composites",
+      "title": "A Framework for a High Throughput Screening Method to Assess Polymer/Plasticizer Miscibility: The Case of Hydrocarbons in Polyolefins",
+      "abstract": "ABSTRACT Polymer composite materials require softening to reduce their glass transition temperature and improve processability. To this end, plasticizers, which are small organic molecules, are added to the polymer matrix. The miscibility of these plasticizers has a large impact on their effectiveness and, therefore, their interactions with the polymer matrix must be carefully considered. Many plasticizer characteristics, including their size, topology and flexibility, can impact their miscibility and, because of the exponentially large number of plasticizers, the current trial-and-error approach is very ineffective. In this work we show that using coarse-grained molecular simulations of a small dataset of 48 plasticizers, it is possible to identify topological and thermodynamic descriptors that are proxy for their miscibility. Using ad-hoc molecular dynamics simulation set-ups that are relatively computationally inexpensive, we establish correlations between the plasticizers\u2019 topology, internal flexibility, thermodynamics of aggregation and their degree of miscibility, and use these descriptors to classify the molecules as miscible or immiscible. With all available data, we also construct a decision tree model which achieves a F1 score of 0.86 \u00b1 0.01 with repeated, stratified 5-fold cross-validation, indicating that this machine learning method can be a promising route to fully automate the screening. By evaluating the individual performance of the descriptors, we show this procedure enables a 10-fold reduction of the test space and provides the basis for the development of workflows which can efficiently screen plasticizers with a variety of topological features. The approach is used here to screen for apolar plasticizers in polyisoprene melts but similar proxies would be valid for other polyolefins, while, in cases where polar interactions drive the miscibility, other descriptors are likely to be needed."
+    },
+    "evaluation_results": {
+      "decision_accuracy": "Pass",
+      "evidence_grounding": {
+        "grounded": true,
+        "reason": "The rationale aligns with the journal's scope by focusing on polymer properties and employing simulation methods, which are both relevant topics in polymer science as outlined in the journal scope."
+      },
+      "consistency_check": {
+        "Eval_Status": "Pass",
+        "which_one_executed": "LLM",
+        "reason": "The rationale clearly supports the decision by explaining how the manuscript's focus and methods align with the journal's scope, emphasizing polymer synthesis, properties, and innovative approaches."
+      },
+      "negation_sensitivity": {
+        "negation_pass": true,
+        "which_one_executed": "LLM",
+        "reason": "The negated abstract removes the focus on polymer science and the innovative methods and findings that align with the journal's scope. The model should correctly identify this negated version as 'Not Aligned' due to the lack of relevance to the journal's focus areas."
+      }
+    },
+    "source_file": "MA_3c01764_eval_results.json"
+  },
+  {
+    "metadata": {
+      "timestamp": "Tue Sep 16 11:02:17 PM +0530 2025",
+      "sample_title": "Tailoring Functional Graphene-Derived Geopolymer Nanocomposites: Interfacial Interactions and Mechanical Strength Enhancement",
+      "evaluations_run": [
+        "decision_accuracy",
+        "evidence_grounding",
+        "consistency_check",
+        "negation_sensitivity"
+      ]
+    },
+    "input_data": {
+      "jid": "mg",
+      "aid": "5c00028",
+      "gold_aligned": true,
+      "aligned": true,
+      "rationale": "The manuscript focuses on the design, synthesis, and characterization of graphene-derived geopolymer nanocomposites, which aligns with the journal's emphasis on innovative materials research. It addresses the enhancement of mechanical properties and interfacial interactions, relevant to the core mission of developing materials for environmental and construction applications, thus fitting well within the journal's scope.",
+      "scope_text": "ACS Materials Au is an open access journal publishing high-quality research at the forefront of fundamental and applied research, and at the interface between materials and other disciplines, such as chemistry, engineering and biology. Manuscripts that showcase multidisciplinary and innovative materials research addressing global challenges are especially welcome. Topics include, but are not limited to:\n* Design, synthesis, characterization, and evaluation of forefront and emerging materials\n* Understanding structure, property, performance relationships and their underlying mechanisms\n* Development of materials for energy, environmental, biomedical, electronic, and catalytic applications",
+      "title": "Tailoring Functional Graphene-Derived Geopolymer Nanocomposites: Interfacial Interactions and Mechanical Strength Enhancement",
+      "abstract": "Geopolymers are emerging as sustainable alternatives to Ordinary Portland Cement (OPC), offering high strength, lightweight properties, and a lower environmental impact, making them promising materials for green concrete technologies. In this study, we synthesized graphene-based geopolymer nanocomposites using various functional graphene derivatives such as graphene oxide (GO), sulfonated graphene oxide (G-SO3H) thiographene (G-SH), and phosphate graphene (G-PO3H), along with alumina- and silica-rich waste materials such as fly ash and dolomite, to enhance mechanical properties including setting time, flowability, compressive strength, and water absorption. The functional groups on graphene derivatives improve particle dispersion and matrix density, enhancing compressive strength, while Raman spectroscopy reveals spectral shifts at interfaces of phosphate graphene with dolomite and fly ash, indicating interactions. The resultant FDGP exhibits significantly higher compressive strength of 45.60 MPa at 7 days and 50.20 MPa at 28 days compared to GO, G-SH, and G-SO3H. The high concentration of phosphate functional groups promotes strong interactions with the geopolymer matrix, improving its workability. Furthermore, density functional theory (DFT) calculations elucidate the role of functional groups in graphene-based geopolymer concrete, enhancing molecular interactions and promoting robust interfacial adhesion with the geopolymer matrix for superior performance. We studied the time-dependent interactions of functionalized graphene oxide phosphate using DFT and other characterization methods, revealing strong hydrogen bonding that enhances dispersion and reinforcement within the geopolymer matrix."
+    },
+    "evaluation_results": {
+      "decision_accuracy": "Pass",
+      "evidence_grounding": {
+        "grounded": true,
+        "reason": "The manuscript aligns with the journal's scope by focusing on the design, synthesis, and characterization of innovative materials, specifically graphene-derived geopolymer nanocomposites, and addresses mechanical properties and interfacial interactions relevant to environmental applications."
+      },
+      "consistency_check": {
+        "Eval_Status": "Pass",
+        "which_one_executed": "LLM",
+        "reason": "The rationale clearly supports the decision that the manuscript fits the journal's scope by emphasizing its focus on innovative materials research and its relevance to the journal's core mission."
+      },
+      "negation_sensitivity": {
+        "negation_pass": true,
+        "which_one_executed": "LLM",
+        "reason": "The negated abstract removes the key findings and methods that align with the journal's focus on innovative materials research. The model should correctly identify the negated abstract as 'Not Aligned' due to the lack of relevance to the journal's scope."
+      }
+    },
+    "source_file": "MG_5c00028_eval_results.json"
+  }
+]
